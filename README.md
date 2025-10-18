@@ -1,17 +1,17 @@
+# Repository Information Guide
+
+## 🏷️ Short Description (GitHub Header)
+
 💻 Machine Learning project predicting laptop prices using Linear Regression. Built with Python, scikit-learn, and pandas. Achieves 85%+ accuracy on real-world Kaggle dataset.
-```
 
 ---
 
-## 📝 **Detailed Description** (for repo About section)
+## 📝 Detailed Description (Repo About Section)
 
-### **One-liner:**
-```
+### One-liner:
 Predict laptop prices based on specifications using Linear Regression | Part of 30-day ML portfolio challenge
-```
 
-### **Full Description:**
-```
+### Full Description:
 A comprehensive Machine Learning project that predicts laptop prices based on technical specifications (RAM, CPU, GPU, brand, etc.) using Linear Regression. This project demonstrates data preprocessing, feature engineering, model evaluation, and visualization techniques on real-world data from Kaggle.
 
 🎯 Key Features:
@@ -22,14 +22,14 @@ A comprehensive Machine Learning project that predicts laptop prices based on te
 - Model persistence for reusability
 - Jupyter Notebook included
 
-📊 Dataset: 1,300+ laptops from Kaggle
-🛠️ Tech Stack: Python, scikit-learn, pandas, matplotlib, seaborn
+📊 Dataset: 1,300+ laptops from Kaggle  
+🛠️ Tech Stack: Python, scikit-learn, pandas, matplotlib, seaborn  
 📈 Use Case: Help consumers estimate fair laptop prices before purchase
-```
 
 ---
 
-## 🏷️ **GitHub Topics/Tags**
+## 🏷️ GitHub Topics/Tags
+
 ```
 machine-learning
 linear-regression
@@ -50,31 +50,52 @@ beginner-friendly
 
 ---
 
+## 📋 Social Preview Text (Link Sharing)
 
-## 📋 **Social Preview Text** (for link sharing)
-```
 💻 Laptop Price Predictor | ML Project using Linear Regression to predict laptop prices with 85%+ accuracy. Includes complete code, visualizations, and interactive predictions. Built with Python & scikit-learn. #MachineLearning #DataScience
-```
 
 ---
 
-## 🎨 **GitHub Repository Settings**
+## 🎨 GitHub Repository Settings
 
-**Suggested configuration:**
+**Suggested Configuration:**
 
-- **Name:** `laptop-price-predictor`
+- **Repository Name:** `laptop-price-predictor`
 - **Description:** Use the short description above
 - **Topics:** Add all tags listed above
 - **Include in homepage:** ✅ Yes
+- **License:** MIT License (recommended)
+- **README:** Use the main README.md file
 
 ---
 
-Project: Laptop Price Predictor 💻
+## 📢 Social Media Post Template
+
+**Project Announcement:**
+
+🚀 Day 1/30 of my Machine Learning Portfolio Challenge!
+
+Project: Laptop Price Predictor 💻  
 Built a Linear Regression model that predicts laptop prices with 85%+ accuracy using real-world data from Kaggle.
 
-📊 Dataset: 1,300+ laptops
-🎯 Features: RAM, CPU, GPU, Brand, etc.
+📊 Dataset: 1,300+ laptops  
+🎯 Features: RAM, CPU, GPU, Brand, etc.  
 📈 Result: ±€187 average prediction error
 
 Tech Stack: Python | scikit-learn | pandas | matplotlib
-#MachineLearning #DataScience #Python  #Portfolio
+
+#MachineLearning #DataScience #Python #Portfolio
+
+---
+
+## 📌 Quick Copy-Paste Section
+
+**For GitHub Description Field (160 char limit):**
+```
+ML project predicting laptop prices with Linear Regression. 85%+ accuracy on Kaggle data. Python, scikit-learn, pandas. Interactive predictions included.
+```
+
+**For GitHub About Section (350 char limit):**
+```
+Predict laptop prices using Linear Regression with 85%+ accuracy. Analyzes RAM, CPU, GPU, brand specs from 1,300+ Kaggle laptops. Includes preprocessing, visualizations, evaluation metrics, and interactive prediction tool. Built with Python, scikit-learn, pandas, matplotlib. Part of 30-day ML portfolio challenge.
+```
